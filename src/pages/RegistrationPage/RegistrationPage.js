@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Button, Form, Input } from 'antd';
-import s from './registration_page.module.css';
+import s from './registration__page.module.css';
 import { ApiRoute } from '../../consts';
 
 const formItemLayout = {
