@@ -1,0 +1,7 @@
+.not_found_page {
+  height: calc(100vh - 158px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid skyblue;
+}
